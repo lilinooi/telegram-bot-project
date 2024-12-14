@@ -5,5 +5,5 @@ Features:
 - Code validation against test cases.
 - Detailed feedback on errors.
 How to Run:
-1. Install dependencies: `pip install -r requirements.txt`.
-2. Run the bot: `python bot.py`.
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the bot: `python bot.py`
